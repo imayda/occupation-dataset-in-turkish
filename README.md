@@ -3,4 +3,6 @@
 <br/><br/>
 Veri kümesindeki meslekler şunlardır: avukatlık, diyetisyenlik, doktorluk, ekonomistlik, öğretmenlik, psikologluk, spor yorumculuğu, tarihçilik, yazılımcılık, ziraat mühendisliği.
 <br/><br/>
-Bu veri kümesinin kullanıldığı çalışma değerlendirilmek üzere IDAP 2022'ye gönderilmiştir.
+Bu veri kümesinin kullanıldığı çalışma Avrupa Bilim ve Teknoloji Dergisi'nde yayımlanmıştır.
+<br/><br/>
+Yayının linki: https://dergipark.org.tr/tr/pub/ejosat/issue/72665/1168269
